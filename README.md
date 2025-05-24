@@ -1,29 +1,30 @@
-# 🌐 Bhartkumar Boricha - Portfolio
+# 🌐 Bhartkumar Boricha – Developer Portfolio
 
-Welcome to my personal developer portfolio — built with **React**, **Vite**, **Tailwind CSS**, and deployed on **Vercel**.
+Welcome to my personal portfolio, built using **React**, **Vite**, and **Tailwind CSS**, and deployed via **Vercel**.
 
-This portfolio showcases my background, skills, featured projects, and resume. Designed to be fast, responsive, and clean with light/dark mode support and scroll animations via Framer Motion.
-
-## 🔗 Live Demo
-
-👉 [Visit Portfolio Website](https://portfolio-b7kp.vercel.app/)  
-_(Replace with your actual Vercel link after deployment)_
+This site showcases my technical background, key projects, resume, and contact details. It is designed to be fast, responsive, and minimal — with modern features like **dark mode**, **scroll animations**, and CI/CD deployment.
 
 ---
 
-## ✨ Features
+## 🔗 Live Site
 
-- Fully responsive design
-- Dark mode toggle 🌙☀️
-- Scroll animations using Framer Motion
-- Featured projects with GitHub links
-- Resume download button
-- Clean and modern Tailwind UI
-- Hosted on Vercel with CI/CD
+🚀 [Visit the Live Portfolio](https://portfolio-b7kp.vercel.app/)
 
 ---
 
-## 🛠️ Built With
+## ✨ Key Features
+
+- ⚡️ Fast and optimized build using Vite
+- 🌙 Light/Dark mode toggle
+- 📱 Responsive design for all devices
+- 🎞️ Scroll-based animations (Framer Motion)
+- 💼 Featured project gallery with GitHub links
+- 📄 Resume download button
+- 🚀 Continuous deployment via Vercel
+
+---
+
+## 🛠️ Tech Stack
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
@@ -38,44 +39,59 @@ _(Replace with your actual Vercel link after deployment)_
 
 To run locally:
 
-    ```bash
-    git clone https://github.com/borichab/portfolio.git
-    cd portfolio
-    npm install
-    npm run dev
+```bash
+git clone https://github.com/borichab/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
+
+```
 src/
 ├── components/       # Reusable UI components (Card, Button, etc.)
-├── Portfolio.jsx     # Main portfolio component
-├── App.jsx           # App entry point
-├── index.css         # Tailwind base + custom styles
-├── main.jsx          # React/Vite entry
+├── Portfolio.jsx     # Main portfolio page
+├── App.jsx           # Root component
+├── index.css         # Tailwind CSS configuration
+├── main.jsx          # Entry point
+public/
+├── favicon.ico       # Custom favicon
+```
 
 ---
 
 ## 📄 Resume
-My resume is available for direct download here:
 
-👉 Download Resume (PDF)[https://github.com/borichab/borichab/raw/main/BhartkumarBoricha_EN.pdf]
+You can view or download my resume directly:
+
+👉 [Download Resume (PDF)](https://github.com/borichab/borichab/raw/main/BhartkumarBoricha_EN.pdf)
 
 ---
 
 ## 🙋‍♂️ About Me
-I’m a Full Stack Developer currently based in Germany, actively seeking full-time opportunities in Backend, Frontend, or Full Stack roles.
-I specialize in Java, Spring Boot, PHP, Laravel, React, and Firebase.
-My portfolio reflects a mix of professional work and real-world academic projects.
+
+I’m a Full Stack Developer based in Germany, currently open to full-time roles in **Backend**, **Frontend**, or **Full Stack Development**.
+
+I have practical experience with:
+
+- Java · Spring Boot · PHP · Laravel
+- React · Vue · Firebase · Tailwind CSS
+- REST APIs · C# middleware · Git workflows
+
+This portfolio includes both academic and real-world projects that demonstrate my skills and growth as a developer.
 
 ---
 
 ## 📬 Contact
-📧 Email: bhartpboricha@gmail.com
-🔗 LinkedIn: linkedin.com/in/bhartkumar-boricha
-💻 GitHub: github.com/borichab
-✴️ Xing: XING Profile
 
-“आपत्ति ही आविष्कार का रास्ता है” — Adversity is the path to invention.
+- 📧 Email: [bhartpboricha@gmail.com](mailto:bhartpboricha@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/bhartkumar-boricha](https://linkedin.com/in/bhartkumar-boricha)  
+- 💻 GitHub: [github.com/borichab](https://github.com/borichab)  
+- ✴️ Xing: [XING Profile](https://www.xing.com/profile/Bhartkumar_Boricha/web_profiles)
 
 ---
+
+> “आपत्ति ही आविष्कार का रास्ता है” — *Adversity is the path to invention.*
