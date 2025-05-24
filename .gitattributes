@@ -1,0 +1,47 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Source code: always use LF
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+
+# Stylesheets
+*.css  text eol=lf
+*.scss text eol=lf
+*.sass text eol=lf
+*.less text eol=lf
+
+# HTML and config
+*.html text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Git and build config
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+*.eslintrc text eol=lf
+*.prettierrc text eol=lf
+*.babelrc text eol=lf
+*.env text eol=lf
+
+# Tailwind and PostCSS config
+*.config.js text eol=lf
+
+# Lock files (should be committed as-is)
+package-lock.json -text
+yarn.lock -text
+
+# Images and binary files: never modify
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
